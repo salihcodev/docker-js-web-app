@@ -1,0 +1,23 @@
+{
+  "name": "first-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihcodev/docker-js-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salihcodev/docker-js-web-app/issues"
+  },
+  "homepage": "https://github.com/salihcodev/docker-js-web-app#readme"
+}
