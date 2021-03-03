@@ -3,9 +3,9 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello in DOCKER play ground!!');
+  res.send('Hello in DOCKER play ground!');
 });
 
-app.listen(8080, () => {
+app.listen(3000, () => {
   console.log('The wep-app is now live :)');
 });
